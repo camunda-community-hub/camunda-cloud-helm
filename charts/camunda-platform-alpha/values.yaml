@@ -3694,7 +3694,7 @@ elasticsearch:
     ## @param elasticsearch.image.repository
     repository: bitnami/elasticsearch
     ## @param elasticsearch.image.tag
-    tag: 8.15.4
+    tag: 8.17.1
   master:
     ## @param elasticsearch.master.replicaCount defines number of master-elegible replicas to deploy
     replicaCount: 3
